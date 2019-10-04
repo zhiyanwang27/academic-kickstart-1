@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/zhiyanwang27/zhiyanwang27.github.io.git
 	branch = master
+[submodule "pub"]
+	path = pub
+	url = https://github.com/zhiyanwang27/zhiyanwang27.github.io.git
+	branch = master
