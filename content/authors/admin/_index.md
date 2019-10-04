@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Zhiyan Wang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate in Experimental Psycholopgy
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Brown University, Lab for Cognitive and Perceptual Learning
+  url: "https://sites.clps.brown.edu/cpl/members/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include visual perceptual learning, sleep, reward, and computational modeling
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Interests:
+- Visual Plasticity
+- Sleep
+- Computational Modeling
 
-education:
+Education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D in Experimental Psychology: Brown University
+    year: expected 2021
+  - course: MS. in Experimental Psychology: Brown University
+    year: 2018
+  - course: BSc in Cognitive and Psychological Sciences: Peking University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
