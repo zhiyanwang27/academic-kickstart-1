@@ -1,15 +1,15 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
-[submodule "public"]
-	path = public
-	url = https://github.com/zhiyanwang27/zhiyanwang27.github.io.git
-	branch = master
 [submodule "pub"]
 	path = pub
 	url = https://github.com/zhiyanwang27/zhiyanwang27.github.io.git
 	branch = master
 [submodule "public."]
 	path = public.
+	url = https://github.com/zhiyanwang27/zhiyanwang27.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
 	url = https://github.com/zhiyanwang27/zhiyanwang27.github.io.git
 	branch = master
