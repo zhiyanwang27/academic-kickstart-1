@@ -32,7 +32,7 @@ featured: false
 
 links:
 - name: Custom Link
-  url: https://www.biorxiv.org/content/10.1101/738666v1.abstract
+  url: 
 url_pdf: ''
 url_code: ''
 url_dataset: ''

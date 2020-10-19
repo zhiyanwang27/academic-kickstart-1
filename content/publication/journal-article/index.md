@@ -36,7 +36,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.cell.com/current-biology/pdfExtended/S0960-9822(19)30268-4
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
