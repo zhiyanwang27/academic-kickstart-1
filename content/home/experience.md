@@ -18,27 +18,45 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Trainee for T32 Training Grant on Interactionist Cognitive Neuroscience"
+  company = "Carney Institute for Brain Science"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Brown Unviersity"
+  date_start = "2019-09-09"
+  date_end = "2020-09-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Modeling
+  * Cross-level
+  * Neuroscience
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Lab for Cognitive and Perceptual Learning"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Brown University"
+  date_start = "2016-09-01"
+  date_end = "2021-05-31"
+  description = """Graduate Research assistant for performing visual learning projects"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Accurate Vision Lab"
+  company_url = ""
+  location = "Peking University"
+  date_start = "2014-09-01"
+  date_end = "2016-07-31"
+  description = """Undergraduate research assistant for collecting and analyzing data for psychophysics vision experiments"""
+
+[[experience]]
+  title = "Vice President"
+  company = "Peking University Tennis Association"
+  company_url = ""
+  location = "Peking University"
+  date_start = "2014-09-01"
+  date_end = "2016-07-31"
+  description = ""
 
 +++
